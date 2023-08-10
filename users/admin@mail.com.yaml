@@ -1,0 +1,6 @@
+name: admin
+super: true
+id: 28145e8e-fb05-40c2-bc6f-95d8341e6400
+password_hash: $2y$10$GxZQ7hbvg4mj0qwY5nKMveJxSnsghe9ZMoDixo/PTE2zniSCeNbly
+preferences:
+  locale: en
